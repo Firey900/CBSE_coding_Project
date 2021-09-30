@@ -1,0 +1,29 @@
+   body {
+     background-image: url(https://wallpaperaccess.com/full/1396544.jpg);
+   }
+  
+  h1 {
+     text-align: center;
+  }
+
+  h2{
+      color: aliceblue;
+      text-align: center;
+  }
+
+  h3 {
+      color: aliceblue;
+  }
+
+  hr{
+      width: 200px;
+      border-width: 0.5px;
+      align-self: center;
+  }
+
+  u{
+      color:azure;
+  }
+  h3 {
+    color: white;
+  }
